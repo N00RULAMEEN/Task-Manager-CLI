@@ -154,11 +154,14 @@ Planned future upgrades include:
 #  Acknowledgements
 
 Special thanks to everyone who creates open-source tools, documentation, and learning resources that help developers improve and build projects.
+CS50
+Professor David J Milan
+Professor Carter Zenkie
 
 ---
 
 <p align="center">
   <b>Built with Python • Logic • Persistence • Problem Solving</b>
 </p>
-```
+
 
