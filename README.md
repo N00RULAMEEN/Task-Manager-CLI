@@ -1,7 +1,5 @@
 # Task-Manager-CLI
 
-# Task-Manager-CLI
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Task+Manager+CLI;Python+Command-Line+Task+Manager;Manage+Tasks+Directly+from+the+Terminal;JSON-Based+Persistent+Storage;Built+with+Python+and+Pytest" />
 </p>
@@ -63,7 +61,7 @@ All task data is stored inside a `CLI_TODO.json` file, ensuring tasks remain sav
 ---
 
 # 📂 Project Structure
-
+```
 project/
 │
 ├── project.py          # Main application logic
@@ -71,7 +69,7 @@ project/
 ├── requirements.txt    # External dependencies
 ├── README.md           # Project documentation
 └── CLI_TODO.json       # Stored task data
-
+```
 
 ---
 
