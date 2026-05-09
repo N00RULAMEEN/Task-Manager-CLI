@@ -1,5 +1,5 @@
 # Task-Manager-CLI
-````md
+
 # Task-Manager-CLI
 
 <p align="center">
@@ -64,7 +64,6 @@ All task data is stored inside a `CLI_TODO.json` file, ensuring tasks remain sav
 
 # 📂 Project Structure
 
-```bash
 project/
 │
 ├── project.py          # Main application logic
@@ -72,7 +71,7 @@ project/
 ├── requirements.txt    # External dependencies
 ├── README.md           # Project documentation
 └── CLI_TODO.json       # Stored task data
-````
+
 
 ---
 
@@ -114,9 +113,8 @@ The project includes automated tests using **pytest**.
 
 Run tests using:
 
-```bash
 pytest test_project.py
-```
+
 
 ---
 
